@@ -112,6 +112,11 @@ header .right ul .active {
   color: #5143d9 !important;
   background-color: rgba(81, 67, 217, 0.1);
 }
+
+header .right ul li:hover {
+  color: #5143d9 !important;
+  background-color: rgba(81, 67, 217, 0.1);
+}
 header .right ul li {
   height: 40px;
   border-radius: 0.5rem;
