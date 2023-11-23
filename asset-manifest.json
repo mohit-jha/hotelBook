@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mohit-jha/hotelBook/static/css/main.7bd2201f.css",
+    "main.js": "/mohit-jha/hotelBook/static/js/main.f32714ea.js",
+    "static/js/787.b047605a.chunk.js": "/mohit-jha/hotelBook/static/js/787.b047605a.chunk.js",
+    "static/media/logo.svg": "/mohit-jha/hotelBook/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mohit-jha/hotelBook/index.html",
+    "main.7bd2201f.css.map": "/mohit-jha/hotelBook/static/css/main.7bd2201f.css.map",
+    "main.f32714ea.js.map": "/mohit-jha/hotelBook/static/js/main.f32714ea.js.map",
+    "787.b047605a.chunk.js.map": "/mohit-jha/hotelBook/static/js/787.b047605a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bd2201f.css",
+    "static/js/main.f32714ea.js"
+  ]
+}
