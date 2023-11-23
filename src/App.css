@@ -654,6 +654,7 @@ footer .top_links ul li:hover,
 
 .package_plan .left .details_abs {
   position: absolute;
+  display: none;
   bottom: 20px;
 }
 .package_plan .left .details_abs > div {
